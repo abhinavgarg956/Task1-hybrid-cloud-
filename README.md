@@ -1,2 +1,2 @@
-# Task1-hybrid-cloud-
-This following repository contains the first task of hybrid multi cloud  course taken by Mr Vimal Daga Sir 
+# hybrid-cloud-
+This following repository contains the code of hybrid multi cloud  how we can implement private and public cloud together 
